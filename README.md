@@ -8,5 +8,5 @@
 ## HW6: GAN
 ## HW7: BERT
 ## HW8: Anomaly Detection
-## HW10:Attack
-## HW11:Adaptation
+## HW10: Attack
+## HW11: Adaptation

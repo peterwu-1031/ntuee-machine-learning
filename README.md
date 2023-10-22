@@ -1,4 +1,4 @@
-# NTUEE Machine Learning HW
+# NTUEE Machine Learning Assignments
 ## Course Website: https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php
 ### HW1: Regression
 ### HW2: Classification
